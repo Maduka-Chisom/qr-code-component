@@ -27,7 +27,7 @@ The QR-code-component was quite a quick ride, my first challenge took me days to
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Maduka-Chisom/qr-code-component.git)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
