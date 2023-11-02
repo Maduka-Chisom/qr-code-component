@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-The QR-code-component was quite a quick ride, my first challenge took me days to complete and i am excited about my growth and on the other i know learning never stops. see details below.
+The QR-code-component was quite a quick ride, my first challenge took me days to complete and i am excited about my growth and i know learning never stops.
 
 ### Screenshot
 
